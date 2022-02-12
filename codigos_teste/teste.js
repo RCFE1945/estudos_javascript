@@ -1,3 +1,13 @@
+//Teste
+/*
+var e = 2;
+console.log(e);
+e = 4;
+console.log(e);
+e = Math.pow(e,e);
+console.log(e);
+*/
+
 //Verificacao de numero menor
 /*
 var a = Number(prompt("Digite a: ",""));
