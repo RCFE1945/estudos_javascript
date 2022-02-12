@@ -1,3 +1,11 @@
+//Verificacao de numero menor
+/*
+var a = Number(prompt("Digite a: ",""));
+var b = Number(prompt("Digite b: ",""));
+var g = Math.min(a,b);
+console.log(g);
+*/
+
 //Funcoes Crecentes
 /*
 
