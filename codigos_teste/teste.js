@@ -1,3 +1,22 @@
+//Algoritimo que conta quantas letras tem em uma palavra
+/*
+function contBs(_string,_char){
+    var string = String(_string);
+    var char = String(_char);
+    var conterChar = 0;
+    for(conter = 0;string.length > conter;conter++){
+        if(string.charAt(conter) === char){
+            conterChar++;
+        }
+
+    }
+    return conterChar;
+}
+var string = String(prompt("Digite uma palavra: ",""));
+var char = String(prompt("Qual letra voce quer procurar: ",""));
+alert(contBs(string,char));
+*/
+
 //Teste
 /*
 var e = 2;
