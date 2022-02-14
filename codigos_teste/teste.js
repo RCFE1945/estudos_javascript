@@ -1,3 +1,10 @@
+//Teste em JSON
+/*
+var string = JSON.stringify({"name":"Ramon","sex":"m"});
+console.log(string);
+console.log(JSON.parse(string).name);
+*/
+
 //Algoritimo que conta quantas letras tem em uma palavra
 /*
 function contBs(_string,_char){
