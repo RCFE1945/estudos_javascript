@@ -1,3 +1,18 @@
+//Algoritimo que inverte os dados de um array e cria outro array com estes dados
+/*
+function reversArray(_array = []){
+    var reveArray = [];
+    var contArray = (_array.length) -1;
+    for( var conter = 0;_array.length > conter; conter++){
+        reveArray.push(_array[contArray]);
+        contArray--;
+    }
+    return reveArray;
+}
+var list = ["A","B","C","D","E"];
+console.log(reversArray(list));
+*/
+
 //Teste em JSON
 /*
 var string = JSON.stringify({"name":"Ramon","sex":"m"});
